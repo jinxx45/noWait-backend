@@ -1,4 +1,4 @@
-package com.jinx.noWait.userServices.restaurant.model;
+package com.jinx.noWait.userSide.restaurant.model;
 
 import org.springframework.data.annotation.Id;
 import org.springframework.data.mongodb.core.mapping.Document;

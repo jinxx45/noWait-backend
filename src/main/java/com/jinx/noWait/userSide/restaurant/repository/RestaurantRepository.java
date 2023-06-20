@@ -1,6 +1,6 @@
-package com.jinx.noWait.userServices.restaurant.repository;
+package com.jinx.noWait.userSide.restaurant.repository;
 
-import com.jinx.noWait.userServices.restaurant.model.Restaurants;
+import com.jinx.noWait.userSide.restaurant.model.Restaurants;
 import org.springframework.data.mongodb.repository.MongoRepository;
 import org.springframework.stereotype.Repository;
 

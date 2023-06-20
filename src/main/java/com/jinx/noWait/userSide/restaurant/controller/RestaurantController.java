@@ -1,10 +1,10 @@
-package com.jinx.noWait.userServices.restaurant.controller;
+package com.jinx.noWait.userSide.restaurant.controller;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
-import com.jinx.noWait.userServices.restaurant.model.Restaurants;
+import com.jinx.noWait.userSide.restaurant.model.Restaurants;
 
-import com.jinx.noWait.userServices.restaurant.service.RestaurantService;
+import com.jinx.noWait.userSide.restaurant.service.RestaurantService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
